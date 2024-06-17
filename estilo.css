@@ -1,0 +1,284 @@
+@font-face {
+    font-family: 'Bukhari';
+    src: url(/fuentes/Bukhari\ Script.ttf);
+    font-weight: bold;
+    font-size: bold;
+}
+@font-face{
+    font-family: 'vintage';
+    src: url(/fuentes/vintage.ttf);
+    font-weight: bold;
+    font-size: bold;
+}
+@font-face{
+    font-family: 'merich';
+    src: url(/fuentes/Merich.otf);
+    font-weight: bold;
+    font-size: bold;
+}
+@font-face{
+    font-family: 'futura';
+    src: url(/fuentes/futura-demi-bold.otf);
+}
+
+#vistamovil {
+    display: none;
+}
+
+#vistapc {
+    display: block;
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+    margin: 20px;
+    border-radius: 5px;
+    font-family: 'futura';
+    font-size: 80px ;
+}
+
+
+@media(max-width:990px){
+    #vistamovil{
+        display: block;
+    }
+    #vistapc{
+        display: none;
+    }
+}
+
+
+.main{
+    background-color: rgb(250, 215, 74) ;
+    }
+
+.inicio{
+    background-color: blue;
+    border-radius: 25px;
+    height: 100px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center ;
+    background-size: cover;
+    box-shadow: 0 5px 5px;
+    }
+
+.pie{
+    background-color: white;
+    border-radius: 20px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items:center;
+    background-size: cover;
+    box-shadow: 0 2px 5px;
+    
+    }
+
+.productos12{
+    width: 70px;
+}
+
+.carritouwu{
+    width: 70px;
+}
+
+.hprodu{
+
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 0 2px 5px;
+    font-family: 'Bukhari';
+}
+
+.arroba{
+    background-color: white;
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 10px 10px;
+}
+.name {
+    font-family: 'futura';
+    font-style: oblique;
+    }
+
+.precio{
+    font-family: 'vintage';
+    font-style: italic;
+    }
+
+.name2{
+    font-family: 'futura';
+    font-style: oblique;
+    }
+
+.precio2{
+    font-family: 'vintage';
+    font-style: italic;
+    }
+
+.name3{
+    font-family: 'futura';
+    font-style: oblique;
+    }
+
+.precio3{
+    font-family: 'vintage';
+    font-style: italic;
+    }
+
+.name4{
+    font-family: 'futura';
+    font-style: oblique;
+    }
+
+.precio4{
+    font-family: 'vintage';
+    font-style: italic;
+    }
+
+.name5{
+    font-family: 'futura';
+    font-style: oblique;
+    }
+
+.precio5{
+    font-family: 'vintage';
+    font-style: italic;
+    }
+
+.name6{
+    font-family: 'futura';
+    font-style: oblique;
+    }
+
+.precio6{
+    font-family: 'vintage';
+    font-style: italic;
+    }
+
+.name7{
+    font-family: 'futura';
+    font-style: oblique;
+    }
+.precio7{
+    font-family: 'vintage';
+    font-style: italic;
+    }
+
+.name8{
+    font-family: 'futura';
+    font-style: oblique;
+    }
+
+.precio8{
+    font-family: 'vintage';
+    font-style: italic;
+}
+
+.libra{
+    background-color: white;
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 10px 10px;
+}
+
+.caja{
+    background-color: white;
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 10px 10px;
+}
+
+.unidad{
+    background-color: white;
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 10px 10px;
+}
+.papasx12 {
+    background-color: white;
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 10px 10px;
+}
+
+.papitas_unidad{
+    background-color: white;
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 10px 10px;
+}
+
+.gaseosax12{
+    background-color: white;
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 10px 10px;
+}
+
+.coca_cola_unidad{
+    background-color: white;
+    border-radius: 25px 25px 15px 15px;
+    box-shadow: 0 10px 10px;
+}
+
+.barra_in{
+    position: sticky;
+    top: 1vh;
+}
+
+.posicion{
+    position: sticky;
+    bottom: 1vh;
+}
+ .a_mercar{
+    font-family: 'futura';
+    border-radius: 25px;
+    
+    font-size: 30px;
+ }
+
+ .boton_comprar{
+    position: static; 
+    padding: 10px 20px;
+    background-color:red;
+    border-radius: 5px;
+    width: 90px;
+    font-family:'futura';
+    font-size: 16px; 
+    box-decoration-break: none;
+    text-decoration: none;
+    color: white;
+ }
+
+ .whatssap{
+    background-color: white;
+    border-radius: 25px;
+    
+ }
+ 
+ .telefono{
+    font-family: 'futura';
+    display: inline;
+    align-items: start;
+ }
+ .imgwhat{
+    width: 100px;
+    display: inline;
+    
+ }
+ .contact{
+    font-family: 'futura';
+ }
+
+ .carritouwu2{
+    text-decoration: none;
+    color: white;
+ }
+
+ .ttp{
+    background-color: white;
+    padding: 20px 20px;
+    border-radius: 30px;
+    text-align: center;
+    font-family: 'vintage';
+    box-shadow: 0px 0px 25px;
+ }
+
+
+
