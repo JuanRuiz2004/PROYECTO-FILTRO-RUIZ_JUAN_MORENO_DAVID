@@ -3,7 +3,6 @@
 ## Descripción
 Primera pagina que tomare de referencia para poder en un futuro hacer una pagina oficial sobre el super mercado de mi familia
 ---
-```
 ## Tabla de contenido
  - [¿QUE SE VE?](###¿Queseve?)
  - [Funcionalidades usuarios](###¿Comolohice?)
@@ -11,7 +10,6 @@ Primera pagina que tomare de referencia para poder en un futuro hacer una pagina
  - [Como Usarlo](##Uso)
  - [Construido con](##Herramienta)
  - [Autor](##Autor)
-```
    
 ### ¿Que se ve?
 
