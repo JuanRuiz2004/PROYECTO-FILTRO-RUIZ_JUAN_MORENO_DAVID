@@ -1,18 +1,51 @@
-# PROYECTO-FILTRO-RUIZ_JUAN_MORENO_DAVID
-Lo primero que hice fue hacer como un bozquejo en canva de como queria que quedara mi pagina y pensar como podria aplicar lo parendido en clase en esta paina 
+# # Proyecto HTML-CSS - Pagina- Filtro
 
-1).despues inicie sesion en visual con mi github y comenze con el html
+## Descripción
+Primera pagina que tomare de referencia para poder en un futuro hacer una pagina oficial sobre el super mercado de mi familia
+---
+## Tabla de contenido
+ - [¿QUE SE VE?](###¿Queseve?)
+ - [Funcionalidades usuarios](###¿Comolohice?)
+ - [Como instalarlo](##Instalacion)
+ - [Como Usarlo](##Uso)
+ - [Construido con](##Herramienta)
+ - [Autor](##Autor)
+   
+### ¿Que se ve?
 
-2).para luego coenzar a arrelar a organizar las bases de lo que seria mi pagina 
+***Pagina Principal**:*
 
-3).despues de tener todo listo en mi html, que basicamente fue agregar  los productos y el inicio de la pagina, pase a hacer el diseño en css
+- En esta pagina principal se puede observar todos los productos que se pueden comprar en el super mercado.
+- como por ejemplo arroz, papas,gaseosa y aceite.
 
-4).ya en ccs, lo que hice fue colocar colores variados, tipografias de letras, diseño de los bloques de los productos y el tamaño y arreglo de las imagenes 
+### ¿Como lo hice?
 
-5).despues de esto, agregue una funcion de "link" a la cual le metia mis diseños de css a mi html.
+**Primeros pasos:**
 
-6).ya cuando iba concluyendo hice otro HTML para el partado de las ventas o carrito de compras 
+- Lo primero que hice fue buscar una necesidad o que me gustaria buscar como usuario.
+- Despues busque algo mas personal y se me vino a la cabeza el poder hacer una  pagina para mis papàs.
+- entonces primero hice un bosquejo en canva de como se podria ver en la aplicacion Canva.
+- luego me puse a mirar las diapositivas propuestas por el profesor para poder ver como podria aplicar los conocimientos en esta pagina.
+- luego pase 3 dias tratando de mejorarlo y finalmente tuve un restultado final que ustedes mismos miraran a continuacion.
 
-7).fue un poco de lo mismo al primer html, y tambien coloque los diseños de esta segunda pagina en el css principal 
+## instalacion:
+ - Lo primero que se debe de hacer es descargar el archivo.zip.
+ - si no tenemos visual estudio code lo descargamos en la microsoft store o desde google
+ - descargados las extensiones de html y css 
+ - luego lo que debemos de hacer es descomprimirlo para tener la carpeta completa con los archivos.
+ - Ultimo lo abrimos con nuestro visual estudio code.
+   
+## Uso:
+  - luego de terminar con la instalacion lo que debemos de hacer es:
+  - abrir el archivo con visual estudio code.
+  - luego dentro de todos los archivos nos vamos a uno especifico que tiene como nombre "Productos.html"
+  - aqui podremos ver los productos que ofrecemos
+  - si le damos al apartado de carrito podremos observar los productos que hay y "comprarlos"
 
-8).al final utilize funciones para poder interactuar entre las 2 paginas con un <a href >
+## Herramienta:
+- HTML :3
+- CSS
+
+## Autor:
+* **Juan Ruiz** - *Todo el trabajo* - [Juanruiz2004](https://github.com/JuanRuiz2004)
+    
